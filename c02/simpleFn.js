@@ -1,0 +1,2 @@
+var simpleFn = () => "Simple Function"
+
